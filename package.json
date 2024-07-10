@@ -99,7 +99,7 @@
     "yaml": "^2.4.5"
   },
   "scripts": {
-    
+    "build": "tailwindcss -i ./src/style.css -o ./src/output.css --watch"
   },
   "keywords": [],
   "author": "",
