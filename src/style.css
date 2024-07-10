@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.task {
+  @apply bg-gray-100 border-gray-200  flex justify-between items-center py-2 m-3 hover:shadow-black hover:shadow-md duration-500;
+}
+.done{
+  @apply bg-green-700;
+}
+.undone{
+  @apply bg-red-700;
+}
