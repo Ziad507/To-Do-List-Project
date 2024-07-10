@@ -100,8 +100,6 @@
   },
   "scripts": {
     
-    "start": "vite",
-    "build": "vite build"
   },
   "keywords": [],
   "author": "",
